@@ -4,7 +4,7 @@ The listing records come from [Inside Airbnb](https://insideairbnb.com/get-the-d
 an independent project that collects publicly available Airbnb listing data.
 Data are provided under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-| Market | Detailed source snapshot | Record collection dates | Rows in airbnb.csv |
+| Market | Detailed source snapshot | Record collection dates | Rows in mile_high_stays.csv |
 | --- | --- | --- | ---: |
 | Denver | [September 25, 2026 directory](https://data.insideairbnb.com/united-states/co/denver/2026-09-25/data/listings.csv.gz) | September 28-29, 2026 | 1,717 |
 | Seattle | [September 20, 2026 directory](https://data.insideairbnb.com/united-states/wa/seattle/2026-09-20/data/listings.csv.gz) | September 21-22, 2026 | 3,120 |

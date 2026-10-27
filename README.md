@@ -11,7 +11,7 @@ recommendations for Denver.
 - **Project 2 Instructions.pdf**: business context, client requests, data dictionary,
   and deliverables.
 - **Rubric V2.pdf**: assessment criteria and the 100-point scoring system.
-- **airbnb.csv**: 6,522 market listings across Denver, Seattle, and Portland.
+- **mile_high_stays.csv**: 6,522 market listings across Denver, Seattle, and Portland.
 - **client_properties.csv**: 20 Denver client properties requiring pricing
   recommendations; prices are omitted.
 - **Project-2.Rproj**: open in RStudio to work from this folder.
