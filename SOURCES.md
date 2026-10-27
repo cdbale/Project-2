@@ -19,7 +19,9 @@ Selected source variables were renamed using lowercase letters and underscores.
 Prices were converted from currency text to numbers, bathroom counts were parsed
 from listing descriptions, and Superhost status was labeled Yes or No. The
 original detailed property categories and full advertised amenity lists were
-retained. Missing values remain blank; no prices were trimmed or winsorized and
+retained. `checkin_month` is the month of `price_quote_checkin_date`, coded
+1 (January) through 12 (December); missing dates remain blank.
+Missing values remain blank; no prices were trimmed or winsorized and
 no artificial missing or nonsense values were added.
 
 The amenity indicators are derived from the advertised list, ignoring case:
@@ -35,6 +37,6 @@ No means not advertised in the list, rather than independently verified absence.
 A missing amenity list produces blank indicators. An empty list produces No.
 Listings can advertise both types of parking.
 
-The source prices are advertised nightly quotes and can reflect different stay
-dates. They are not records of realized bookings or revenue. The client file has
+The price is the advertised price per night in US dollars for the stay quoted
+when the data was collected. It is not realized booking revenue. The client file has
 the same variable definitions, except that the price column is omitted.
