@@ -40,6 +40,22 @@ Recommendations **don't** have to be quantitative in nature - you might address 
 
 Recommendations **do** need to be supported by the results from the data.
 
+## Scratching the Surface
+
+"Target the group of customers that had responded to a previous campaign."
+
+This is useful, but...
+
+- This is not informative about *who* these people are (e.g., demographics)
+- Tells us nothing about specific offers those customers might respond to
+- Limits the campaign to **existing customers only**
+
+If iFood was doing a digital marketing campaign (other than email/SMS) their ad would be shown to people who were not previous customers...so the recommendation is irrelevant for those potential customers.
+
+## Go A Bit Deeper
+
+- "We recommend two targeting criteria. For the existing customer base, target the group of customers that had responded to a previous campaign. We also found that customers with no children or teenagers at home had a higher campaign acceptance rate than those with children. I recommend separating those 635 customers into control and treatment groups and testing a message about making meals for one easier, such as smaller portions or convenient meal options. Some customers might appreciate not having to cook a full meal or buy more food than they need. If the tailored message improves purchase counts and profits after accounting for costs, roll it out to potential new customers and the full customer base that fits the target demographic."
+ 
 ## Question to Keep in Mind
 
 "Which questions were answered and which questions remain unanswered?"
